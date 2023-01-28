@@ -28,4 +28,4 @@ The developed software system should produce the following output data:
 - A video sequence, referred to here as "Augmented Multiple View.avi", containing realistic
 superimposition of the augmented reality layer onto the input video sequence. 
 
-Solutions proposed by Cristian Davide Conte
+Solutions proposed by ***Cristian Davide Conte**.
